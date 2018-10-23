@@ -33,7 +33,7 @@ pour les paramètres:
 
 pour le tester sous http://localhost:8080/
 ```
- $catalina run
+ $ catalina run
 ```
 
 ## INSTALLATION ECLIPSE
@@ -42,8 +42,8 @@ pour le tester sous http://localhost:8080/
  ... homebrew/cask/eclipse-java...
  $ brew cask install eclipse-java
 ```
-workspace : /home/nicolas/Documents/eclipse-workspace
-Puis vérification au démarrage de bien être sur la version "Eclipse IDE for Java Developers"
+ * workspace : /home/nicolas/Documents/eclipse-workspace
+ * Puis vérification au démarrage de bien être sur la version "Eclipse IDE for Java Developers"
  * fermer l'ongler "Welcome" pour aller sur l'environnement de dev
 
 ## CONNEXION ECLIPSE TOMCAT
