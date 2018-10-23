@@ -25,6 +25,6 @@ pour le tester sous http://localhost:8080/
 ```
 $ brew search eclipse
 ... homebrew/cask/eclipse-java...
-$ brew install homebrew/cask/eclipse-java
+$ brew cask install eclipse-java
 ```
 
