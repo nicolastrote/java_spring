@@ -23,7 +23,7 @@ Gestionnaire de paquets
 ```
 
 ## INSTALLATION TOMCAT
- source : https://wolfpaulus.com/mac/tomcat/
+ source : https://github.com/Agilefant/agilefant/wiki/Installing-Agilefant-development-environment-on-Mac
 ```
  $ cd /Download
  $ wget http://apache.mirror.colo-serv.net/tomcat/tomcat-9/v9.0.12/bin/apache-tomcat-9.0.12.zip
@@ -67,3 +67,5 @@ Gestionnaire de paquets
  * dans l'onglet SERVER, cliquer sur "No server available..."
  * cliquer sur Apache et choisir TOMCAT 9
  * choisir le dossier /usr/local/apache-tomcat-9.0.12 pour tomcat
+
+### AJOUTER TOMCAT DANS ECLIPSE
