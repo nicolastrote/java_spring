@@ -68,4 +68,12 @@ Gestionnaire de paquets
  * cliquer sur Apache et choisir TOMCAT 9
  * choisir le dossier /usr/local/apache-tomcat-9.0.12 pour tomcat
 
-### AJOUTER TOMCAT DANS ECLIPSE
+### AJOUTER SPRING 5 JAR DANS UN PROJET ECLIPSE
+ * creer un projet javaspring-demo-1 dans eclipse
+ * creer un dossier "lib" dans le projet
+ * go to http://repo.spring.io/release/org/springframework/spring/
+ * download spring-framework-5.1.1.RELEASE-dist.zip et unzip
+ * copier les fichier  jar du dossier LIBS et les coller dans le dossier LIB du projet
+ * puis clic droit sur le projet > proprietes > Java Build path > Librairies
+ * Add JAR tout selectionner > ok > fermer
+ 
